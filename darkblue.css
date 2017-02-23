@@ -1,0 +1,10 @@
+
+
+#wrap {
+  background-color: blue;
+  font-family: Impact, fantasy;
+}
+ul {
+  list-style-position: inside;
+  text-align:center;
+}
